@@ -1,1 +1,11 @@
-
+<link rel="stylesheet" href="index.css">
+body {
+  background-color: #3e76c1;
+}
+header {
+  background-color: #3fc0ad;
+}
+body {
+  background-color: #3e76c1;
+  color: white;
+}
