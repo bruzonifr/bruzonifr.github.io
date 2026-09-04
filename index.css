@@ -23,3 +23,11 @@ body {
   color: white;
   text-align: center;
 }
+header {
+  background-color:  #3fc0ad;
+  height : 3cm;
+}
+h1 {
+  padding: 1cm;
+  margin: 0;
+}
