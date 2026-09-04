@@ -18,3 +18,8 @@ img {
   margin: 25px auto;
   border-radius: 25px;
 }
+body {
+  background-color: #3e76c1;
+  color: white;
+  text-align: center;
+}
